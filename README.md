@@ -1,6 +1,6 @@
 # m●nah
 
-> A focus timer for Notion. Keeps your current task in view and tracks the time back to it.
+A focus timer for Notion. Keeps your current task in view and tracks the time back to it.
 
 [Download for macOS](https://monahapp.com/download) · [Set up](https://monahapp.com/setup) · [What's new](https://monahapp.com/whats-new)
 
