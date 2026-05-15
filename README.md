@@ -4,7 +4,7 @@
 
 [Download for macOS](https://monahapp.com/download) · [Set up](https://monahapp.com/setup) · [What's new](https://monahapp.com/whats-new) · [Pro features](https://monahapp.com/pro)
 
-![monah on the desktop](screenshots/monah.png)
+![monah on the desktop](screenshots/header.png)
 
 ## What it does
 
