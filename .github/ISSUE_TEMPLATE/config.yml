@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Email support
+    url: mailto:support@monahapp.com
+    about: Prefer to write privately? support@monahapp.com works too.
+  - name: monah website
+    url: https://monahapp.com
+    about: Download, setup guide, what's new, privacy, terms.

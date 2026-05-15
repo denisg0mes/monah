@@ -1,0 +1,17 @@
+name: Feature request
+description: Suggest something monah could do
+labels: [feature]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's the problem?
+      description: Describe the situation where monah falls short today. What are you trying to do?
+      placeholder: I work across three Notion databases and want to filter the task list to just one.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?
+      description: How would you like monah to handle it? Sketch the shape of the feature, not the exact UI.

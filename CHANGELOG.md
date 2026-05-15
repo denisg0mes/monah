@@ -1,0 +1,23 @@
+# Changelog
+
+Live mirror also at [monahapp.com/whats-new](https://monahapp.com/whats-new).
+
+## 1.1.0 — May 7, 2026
+
+- First public release
+- Notion OAuth integration: pick the workspace and databases monah can see, no API keys to copy around
+- Native macOS app for Apple Silicon and Intel
+
+## 1.0.18 — April 26, 2026
+
+- New "Hide completed tasks" toggle in settings. When on, the all-statuses view skips done tasks; pick a specific Done status from the filter to bring them back.
+
+## 1.0.17 — April 23, 2026
+
+- monah now lives in the macOS menu bar — no more dock icon
+- Update errors now tell you what actually went wrong: no internet, server unreachable, or corrupted file, instead of a generic "failed"
+- Refreshed app icon
+
+## 1.0.16 — April 20, 2026
+
+- Failed update checks and downloads now surface an error banner with a Retry button — no more silent failures

@@ -1,0 +1,33 @@
+name: Bug report
+description: Something in monah didn't work the way it should
+labels: [bug]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A short description of the bug. What did you do? What did you expect? What did monah do instead?
+      placeholder: I clicked Start on a task and the timer didn't begin counting.
+    validations:
+      required: true
+  - type: input
+    id: monah-version
+    attributes:
+      label: monah version
+      description: Find it in Settings → About, or under the app icon in Finder → Get Info.
+      placeholder: 1.1.0
+    validations:
+      required: true
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS version
+      description: From  → About This Mac.
+      placeholder: 15.2 (Sequoia)
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Screenshots, screen recordings, error messages — anything that helps reproduce the issue.
