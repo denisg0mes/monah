@@ -1,4 +1,4 @@
-# monah
+# m●nah
 
 > A focus timer for Notion. Keeps your current task in view and tracks the time back to it.
 
