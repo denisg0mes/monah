@@ -2,7 +2,7 @@
 
 > A focus timer for Notion. Keeps your current task in view and tracks the time back to it.
 
-[Download for macOS](https://monahapp.com/download) · [Set up](https://monahapp.com/setup) · [What's new](https://monahapp.com/whats-new) · [Pro features](https://monahapp.com/pro)
+[Download for macOS](https://monahapp.com/download) · [Set up](https://monahapp.com/setup) · [What's new](https://monahapp.com/whats-new)
 
 ![monah on the desktop](screenshots/header.png)
 
@@ -12,8 +12,6 @@
 - Pomodoro timer with a progress widget, tied to the task you picked
 - Time you spent on each task writes back to a Notion field — use it in any view, filter, or chart
 - Native macOS app, signed and notarized by Apple, runs on Apple Silicon and Intel
-- One-time $12 for Pro (custom widget colors, project filtering); free tier is fully useful on its own
-- No subscription, no ads
 
 ## Install
 
@@ -29,7 +27,7 @@ Open an issue here, or email [support@monahapp.com](mailto:support@monahapp.com)
 
 ## About this repository
 
-monah is a paid macOS app. **The source is closed during the validate stage.** This repository is the public face — release notes, bug reports, feature requests.
+**Source is closed during the validate stage.** This repository is the public face — release notes, bug reports, feature requests.
 
 - Release notes: [CHANGELOG.md](CHANGELOG.md) (also at [monahapp.com/whats-new](https://monahapp.com/whats-new))
 - Privacy: [monahapp.com/privacy](https://monahapp.com/privacy)
