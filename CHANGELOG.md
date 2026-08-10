@@ -2,6 +2,12 @@
 
 Live mirror also at [monahapp.com/whats-new](https://monahapp.com/whats-new).
 
+## 1.2.0 — August 10, 2026
+
+- Setting up Notion is simpler: pick your tasks database and monah maps the rest — statuses, the time field, the h:m column — and shows you what it found. If your database has no time field, monah offers to create one.
+- monah starts in your system language on first run. Ten languages ship.
+- Small bug fixes.
+
 ## 1.1.0 — May 7, 2026
 
 - First public release
