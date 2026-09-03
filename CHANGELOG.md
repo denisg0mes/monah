@@ -2,6 +2,10 @@
 
 Live mirror also at [monahapp.com/whats-new](https://monahapp.com/whats-new).
 
+## 1.3.0 — September 3, 2026
+
+- monah now runs on Windows 10 and 11.
+
 ## 1.2.1 — August 11, 2026
 
 - Connecting Notion no longer reports an error when the connection worked. If no database has been shared with monah yet, the app says which piece is missing and where to fix it, in your language.
