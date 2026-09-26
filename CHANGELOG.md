@@ -2,6 +2,10 @@
 
 Live mirror also at [monahapp.com/whats-new](https://monahapp.com/whats-new).
 
+## 1.3.1 — September 26, 2026
+
+- Repeat now keeps the block you just finished. Every block you work on is added to the task's time in Notion, not only the last one.
+
 ## 1.3.0 — September 3, 2026
 
 - monah now runs on Windows 10 and 11.
