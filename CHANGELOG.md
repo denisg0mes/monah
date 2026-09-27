@@ -2,6 +2,11 @@
 
 Live mirror also at [monahapp.com/whats-new](https://monahapp.com/whats-new).
 
+## 1.3.2 — September 27, 2026
+
+- You can now create tasks right from the task list.
+- Fixed a rare crash of the Windows installer on first install.
+
 ## 1.3.1 — September 26, 2026
 
 - Repeat now keeps the block you just finished. Every block you work on is added to the task's time in Notion, not only the last one.
