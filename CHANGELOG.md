@@ -2,6 +2,11 @@
 
 Live mirror also at [monahapp.com/whats-new](https://monahapp.com/whats-new).
 
+## 1.3.3 — September 27, 2026
+
+- You can now change a task's status right from the list: click its status icon.
+- The task list opens right away, without a second of "No tasks found".
+
 ## 1.3.2 — September 27, 2026
 
 - You can now create tasks right from the task list.
