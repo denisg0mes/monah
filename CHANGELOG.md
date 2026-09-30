@@ -2,10 +2,16 @@
 
 Live mirror also at [monahapp.com/whats-new](https://monahapp.com/whats-new).
 
+## 1.3.4 — September 30, 2026
+
+- When a task changes in Notion, the list moves it smoothly to its new place.
+- Connecting Notion: databases that fit monah are listed first. If the one you pick has no Status, monah explains why and can create a tasks database for you, with the time fields already in place.
+
 ## 1.3.3 — September 27, 2026
 
 - You can now change a task's status right from the list: click its status icon.
 - The task list opens right away, without a second of "No tasks found".
+- Connecting Notion: a Try again link if the browser opens an empty page.
 
 ## 1.3.2 — September 27, 2026
 
