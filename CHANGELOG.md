@@ -2,6 +2,13 @@
 
 Live mirror also at [monahapp.com/whats-new](https://monahapp.com/whats-new).
 
+## 1.3.5 — October 3, 2026
+
+- Setting up is now two steps: pick your tasks database and the field your statuses live in, then time tracking.
+- In Settings → Notion you can choose which field holds your task statuses.
+- If your database has no status field, monah can add one for you or create a ready-made tasks database.
+- Statuses named in Cyrillic or other non-Latin alphabets now all show up.
+
 ## 1.3.4 — September 30, 2026
 
 - When a task changes in Notion, the list moves it smoothly to its new place.
