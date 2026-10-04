@@ -2,6 +2,11 @@
 
 Live mirror also at [monahapp.com/whats-new](https://monahapp.com/whats-new).
 
+## 1.3.6 — October 4, 2026
+
+- Your own statuses keep their Notion colours in the task list, the status filter and the status menu.
+- Small UI improvements.
+
 ## 1.3.5 — October 3, 2026
 
 - Setting up is now two steps: pick your tasks database and the field your statuses live in, then time tracking.
