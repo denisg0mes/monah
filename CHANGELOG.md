@@ -2,6 +2,12 @@
 
 Live mirror also at [monahapp.com/whats-new](https://monahapp.com/whats-new).
 
+## 1.3.7 — October 5, 2026
+
+- You can set how long each task runs: turn off "Always use default duration" in Settings → Appearing, then type a length like 25, 1h or 1h30 when you start a task.
+- On Windows, scrollbars no longer push the list sideways.
+- Small fixes.
+
 ## 1.3.6 — October 4, 2026
 
 - Your own statuses keep their Notion colours in the task list, the status filter and the status menu.
